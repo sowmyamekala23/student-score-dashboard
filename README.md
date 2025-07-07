@@ -1,3 +1,4 @@
+
 # Student Scores Analysis
 
 This project analyzes the scores of 100 students across 5 subjects using Python and NumPy, providing statistical insights and visualizations of the data.
@@ -74,3 +75,7 @@ scores = np.random.randint(50, 101, size=(students, subjects))
 ## License
 
 This project is licensed under the MIT License.
+
+# student-score-dashboard
+Simulates student exam scores, computes detailed statistics, and visualizes performance with bar and box plots using Python, NumPy, and Matplotlib.
+
